@@ -4,7 +4,11 @@ Create a Lambda Function
 2) Create a Lambda s3 trigger on the above s3 location
 3) Environmental variables required : PreProcessedBucket = bucket where the xml and unzipped gzip contents are pushed into
 <<<<<<< HEAD
+<<<<<<< HEAD
 4) Create a r4le that should be used with this Lambda function - read/write access \\ to S3  required.
 =======
 4) Create a r7le that should be used with this Lambda function - read/write access \\ to S3  required.
 >>>>>>> eac1fcc (Update 6)
+=======
+4) Create a r8le that should be used with this Lambda function - read/write access \\ to S3  required.
+>>>>>>> feature/test
